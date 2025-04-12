@@ -1,0 +1,33 @@
+Arduino IDE
+Audacity
+Bitwarden
+Blender
+Caesium Image Compressor
+Clash Verge
+Deluge
+Discord
+Everything
+Firefox
+Follow
+FreeCAD
+Freeoffice
+GIMP
+HandBrake
+Inkscape
+IObit Unlocker
+Kdenlive
+Krita
+LocalSend
+Mem Reduct
+OBS Studio
+QTox
+Rapr
+Rufus
+Sonic Pi
+Tailscale
+Telegram
+Tor Browser
+VirtualBox
+Visual Studio Code
+VLC media player
+7-zip
