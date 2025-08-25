@@ -66,6 +66,12 @@
     "download": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrake-1.9.2-x86_64-Win_GUI.exe"
   },
   {
+    "name": "Hiddify",
+    "logo": "images/Hiddify.png",
+    "description": "Hiddify是一款开源、免费、跨平台的翻墙代理工具，主要用于绕过网络封锁，实现自由、安全的互联网访问。它由社区开发并支持多种操作系统和协议。",
+    "download": "https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Windows-Setup-x64.exe"
+  },
+  {
     "name": "Inkscape",
     "logo": "images/Inkscape.png",
     "description": "Inkscape 是一款免费的开源矢量图形编辑软件，用于创建和编辑矢量图像。它是一个功能强大的工具，适用于图形设计师、插画师、艺术家以及任何需要制作矢量图形的人。Inkscape 支持多种图形格式，并且广泛用于标志设计、插图、网页图形、UI 设计以及其他视觉艺术创作。",
@@ -156,4 +162,5 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
