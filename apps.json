@@ -11,6 +11,12 @@
     "description": "Arduino IDE 是一个开源的开发环境，支持 Arduino 的编程和上传功能。它为初学者和开发者提供了一个直观的界面，简化了开发过程。通过使用这个 IDE，用户可以编写代码、调试和上传到 Arduino 开发板。",
     "download": "https://downloads.arduino.cc/arduino-ide/arduino-ide_latest_Windows_64bit.exe"
   },
+   {
+    "name": "Audacity",
+    "logo": "images/Audacity.png",
+    "description": "Audacity 是一款免费、开源的音频编辑软件，可录音、剪辑、混音和处理多种音频格式，支持效果插件和多轨编辑，适用于 Windows、Mac 和 Linux。",
+    "download": "https://github.com/audacity/audacity/releases/download/Audacity-3.4.2/audacity-win-3.4.2-64bit.exe"
+  },
   {
     "name": "Blender",
     "logo": "images/Blender.png",
@@ -168,6 +174,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
