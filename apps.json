@@ -66,6 +66,12 @@
     "download": "https://download.gimp.org/gimp/v3.0/windows/gimp-3.0.2-setup-1.exe"
   },
   {
+    "name": "Google Chrome",
+    "logo": "images/Google Chrome.png",
+    "description": "Google Chrome 是由 Google 开发的免费网页浏览器，基于开源 Chromium 项目，首次发布于 2008 年。它以速度快、界面简洁、安全性高和丰富的扩展插件著称，支持 Windows、macOS、Linux、Android 与 iOS 等平台，是全球最广泛使用的浏览器之一。",
+    "download": "https://dl.google.com/chrome/install/latest/chrome_installer.exe"
+  },
+  {
     "name": "HandBrake",
     "logo": "images/HandBrake.png",
     "description": "HandBrake 是一款开源的视频转码软件，用于将视频文件从一种格式转换为另一种格式。它支持各种视频文件格式，并提供了丰富的选项来调整视频质量、分辨率、帧率等参数，是非常流行的视频转换和压缩工具，适合个人用户和专业人士使用。",
@@ -174,6 +180,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
