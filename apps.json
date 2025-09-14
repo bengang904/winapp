@@ -146,7 +146,7 @@
   {
     "name": "Scrcpy",
     "logo": "images/Scrcpy.png",
-    "description": "Scrcpy 是一款开源工具，用于在 电脑上显示和控制 Android 设备的屏幕。它可以让你通过 USB 或无线方式，将 Android 手机或平板的屏幕投射到 Windows、macOS 或 Linux 电脑上，并进行操作。",
+    "description": "Scrcpy 是一款开源免费工具，用于在电脑上显示和控制 Android 设备的屏幕。它可以让你通过 USB 或无线方式，将 Android 手机或平板的屏幕投射到 Windows、macOS 或 Linux 电脑上，并进行操作。",
     "download": "https://github.com/Genymobile/scrcpy/releases/download/v3.3.2/scrcpy-win64-v3.3.2.zip"
   },
    {
@@ -198,6 +198,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
