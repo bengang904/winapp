@@ -17,6 +17,12 @@
     "description": "Audacity 是一款免费、开源的音频编辑软件，可录音、剪辑、混音和处理多种音频格式，支持效果插件和多轨编辑，适用于 Windows、Mac 和 Linux。",
     "download": "https://github.com/audacity/audacity/releases/download/Audacity-3.4.2/audacity-win-3.4.2-64bit.exe"
   },
+   {
+    "name": "Bitwarden",
+    "logo": "images/Bitwarden.png",
+    "description": "Bitwarden 是一款开源的密码管理器，可以帮助你安全地存储、生成和管理密码、密钥及其他敏感信息。它的特点是安全性高、跨平台、免费且支持自托管。",
+    "download": "https://bitwarden.com/download/?app=desktop&platform=windows&variant=exe"
+  },
   {
     "name": "Blender",
     "logo": "images/Blender.png",
@@ -119,6 +125,12 @@
     "description": "OBS Studio 是一款开源且免费的直播和录屏软件，广泛用于视频流媒体制作、直播、屏幕录制、视频录制等。它支持多个操作系统，包括 Windows、macOS 和 Linux，功能非常强大，且适用于从业余爱好者到专业直播人员的广泛用户群体。",
     "download": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-31.0.2-Windows-Installer.exe"
   },
+  {
+    "name": "OpenBoard",
+    "logo": "images/OpenBoard.png",
+    "description": "OpenBoard 是一款开源免费的交互式电子白板软件，主要用于教育和教学环境。它可以让教师或讲师在电脑上进行演示、书写和互动，类似传统的黑板或投影白板，但功能更丰富。",
+    "download": "https://github.com/OpenBoard-org/OpenBoard/releases/download/v1.7.3/OpenBoard_Installer_1.7.3.exe"
+  },
    {
     "name": "PrusaSlicer",
     "logo": "images/PrusaSlicer.png",
@@ -130,6 +142,12 @@
     "logo": "images/Rufus.png",
     "description": "Rufus 是一款免费的、开源的工具，用于创建可启动的 USB 驱动器。它常用于将操作系统镜像（如 Windows、Linux 等）烧录到 USB 驱动器，从而创建启动盘。这个软件的使用场景包括安装操作系统、修复系统、系统重装、以及一些高级的系统管理任务。",
     "download": "https://github.com/pbatard/rufus/releases/download/v4.7/rufus-4.7.exe"
+  },
+  {
+    "name": "Scrcpy",
+    "logo": "images/Scrcpy.png",
+    "description": "Scrcpy 是一款开源工具，用于在 电脑上显示和控制 Android 设备的屏幕。它可以让你通过 USB 或无线方式，将 Android 手机或平板的屏幕投射到 Windows、macOS 或 Linux 电脑上，并进行操作。",
+    "download": "https://github.com/Genymobile/scrcpy/releases/download/v3.3.2/scrcpy-win64-v3.3.2.zip"
   },
    {
     "name": "ShareX",
@@ -180,6 +198,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
