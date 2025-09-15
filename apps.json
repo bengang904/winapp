@@ -146,7 +146,7 @@
    {
     "name": "Sandboxie Classic",
     "logo": "images/Sandboxie Classic.png",
-    "description": Sandboxie Classic 是 Sandboxie 的免费开源版本（GPLv3），其是一款 Windows 沙盒隔离软件，可安全运行程序、防止系统污染。界面经典简洁，适合需要基本沙盒功能的用户。",
+    "description": "Sandboxie Classic 是 Sandboxie 的免费开源版本（GPLv3），其是一款 Windows 沙盒隔离软件，可安全运行程序、防止系统污染。界面经典简洁，适合需要基本沙盒功能的用户。",
     "download": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.16.3/Sandboxie-Classic-x64-v5.71.3.exe"
   },
   {
@@ -204,6 +204,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
