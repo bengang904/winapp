@@ -53,6 +53,12 @@
     "description": "Firefox 是一款由 Mozilla 基金会开发的开源网页浏览器。它以速度、隐私保护以及用户自定义的高度可扩展性而闻名。自发布以来，Firefox 一直在不断改进，成为全球使用较为广泛的浏览器之一，特别是在那些注重隐私保护和开源软件的用户群体中。",
     "download": "https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=zh-CN&attribution_code=c291cmNlPShub3Qgc2V0KSZtZWRpdW09KGRpcmVjdCkmY2FtcGFpZ249KG5vdCBzZXQpJmNvbnRlbnQ9KG5vdCBzZXQpJmV4cGVyaW1lbnQ9KG5vdCBzZXQpJnZhcmlhdGlvbj0obm90IHNldCkmdWE9Y2hyb21lJmNsaWVudF9pZF9nYTQ9NDMwNzYyODAwLjE3NDEwOTA3ODgmc2Vzc2lvbl9pZD0zMzEyMzM3MTIzJmRsc291cmNlPW1vem9yZw..&attribution_sig=424224f0421be14ba4afcef359c03584579d2658fcfee5a874e81bc1bda0bca7&_gl=1*1q2mhy0*_ga*NDMwNzYyODAwLjE3NDEwOTA3ODg.*_ga_MQ7767QQQW*MTc0NDQyMzcyMi4xLjEuMTc0NDQyMzgxMS4wLjAuMA."
   },
+   {
+    "name": "Fluent Reader",
+    "logo": "images/Fluent Reader.jpeg",
+    "description": "Fluent Reader 是一款开源的 RSS 阅读器，设计上注重简洁、用户友好且跨平台，支持 Windows、macOS 和 Linux 操作系统。它提供了现代化的界面和高效的 RSS 订阅功能，旨在帮助用户方便地订阅、阅读和管理新闻、博客文章、以及其他信息源。",
+    "download": "https://github.com/yang991178/fluent-reader/releases/download/v1.1.4/Fluent.Reader.Setup.1.1.4.x64.exe"
+  },
   {
     "name": "FreeCAD",
     "logo": "images/FreeCAD.png",
@@ -204,6 +210,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
