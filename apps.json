@@ -161,6 +161,12 @@
     "description": "Rufus 是一款免费的、开源的工具，用于创建可启动的 USB 驱动器。它常用于将操作系统镜像（如 Windows、Linux 等）烧录到 USB 驱动器，从而创建启动盘。这个软件的使用场景包括安装操作系统、修复系统、系统重装、以及一些高级的系统管理任务。",
     "download": "https://github.com/pbatard/rufus/releases/download/v4.7/rufus-4.7.exe"
   },
+  {
+    "name": "Resource Hacker",
+    "logo": "images/Resource Hacker.png",
+    "description": "Resource Hacker（常简称为 ResHacker）是一款 Windows 平台上的免费资源编辑工具，用于查看、提取、修改、添加或删除可执行文件（如 .exe、.dll、.cpl、.ocx 等）中的资源内容。",
+    "download": "https://www.angusj.com/resourcehacker/reshacker_setup.exe"
+  },
    {
     "name": "Sandboxie Classic",
     "logo": "images/Sandboxie Classic.png",
@@ -222,6 +228,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
