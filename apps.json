@@ -101,6 +101,12 @@
     "description": "Inkscape 是一款免费的开源矢量图形编辑软件，用于创建和编辑矢量图像。它是一个功能强大的工具，适用于图形设计师、插画师、艺术家以及任何需要制作矢量图形的人。Inkscape 支持多种图形格式，并且广泛用于标志设计、插图、网页图形、UI 设计以及其他视觉艺术创作。",
     "download": "https://inkscape.org/gallery/item/55865/inkscape-1.4.1_2025-03-31_cac3661-x64.exe"
   },
+    {
+      "name": "IObit Unlocker",
+      "logo": "images/IObit Unlocker.png",
+      "description": "IObit Unlocker 是一款主要用于解决文件和文件夹被锁定或无法删除的问题。许多用户在使用计算机时可能会遇到一些文件无法删除或移动的情况，这通常是因为这些文件正在被某个程序使用或被操作系统占用，导致它们被“锁定”。",
+      "download": "/files/unlocker-setup.exe"
+    },
   {
     "name": "Kdenlive",
     "logo": "images/Kdenlive.png",
@@ -186,6 +192,12 @@
     "download": "https://www.torproject.org/dist/torbrowser/14.0.9/tor-browser-windows-x86_64-portable-14.0.9.exe"
   },
   {
+      "name": "Uninstall Tool",
+      "logo": "images/Uninstall Tool.jpg",
+      "description": "Uninstall Tool 是一款便携版的卸载工具，主要用于 彻底卸载 Windows 程序，比系统自带的“添加或删除程序”更彻底、更专业。",
+      "download": "/files/Uninstall-Tool.zip"
+    },
+  {
     "name": "VirtualBox",
     "logo": "images/VirtualBox.png",
     "description": "VirtualBox 是一款由 Oracle 开发的开源虚拟化软件，用于在一台计算机上创建和运行虚拟机。通过 VirtualBox，用户可以在主机操作系统上运行多个不同的操作系统（如 Windows、Linux、macOS 等），而无需更换或重新启动计算机。",
@@ -210,6 +222,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
