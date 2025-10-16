@@ -1,14 +1,22 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="shortcut icon" href="https://2024-10-24.zip/images/winapp.jpg" type="image/jpeg">
-  <title>Windows-免费应用</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="https://2024-10-24.zip/images/winapp.jpg" type="image/jpeg">
+    <title>Windows-免费应用</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="container" id="app-container"></div>
-  <script src="main.js"></script>
+    <div class="header-container">
+        <div class="search-box">
+            <input type="text" id="search-input" placeholder="搜索应用名称或描述..." />
+            <button onclick="searchApps()">搜索</button>
+        </div>
+    </div>
+    
+    <div class="container" id="app-container"></div>
+    
+    <script src="main.js"></script>
 </body>
 </html>
