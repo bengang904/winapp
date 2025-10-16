@@ -164,7 +164,7 @@
   {
     "name": "Resource Hacker",
     "logo": "images/Resource Hacker.png",
-    "description": "Resource Hacker（常简称为 ResHacker）是一款 Windows 平台上的免费资源编辑工具，用于查看、提取、修改、添加或删除可执行文件（如 .exe、.dll、.cpl、.ocx 等）中的资源内容。",
+    "description": "Resource Hacker 是一款 Windows 平台上的免费资源编辑工具，用于查看、提取、修改、添加或删除可执行文件（如 .exe、.dll、.cpl、.ocx 等）中的资源内容。",
     "download": "https://www.angusj.com/resourcehacker/reshacker_setup.exe"
   },
    {
@@ -228,6 +228,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
