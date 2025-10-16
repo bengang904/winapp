@@ -41,6 +41,12 @@
     "description": "Deluge 是一款轻量级且功能强大的开源 BitTorrent 客户端，专门用于下载和上传种子文件。它支持多个操作系统，包括 Windows、Linux 和 macOS，广泛用于点对点文件共享和 torrent 下载。",
     "download": "https://ftp.osuosl.org/pub/deluge/windows/deluge-2.1.1-win64-setup.exe"
   },
+   {
+    "name": "Driver Store Explorer",
+    "logo": "images/Driver Store Explorer.png",
+    "description": "Driver Store Explorer (RAPR) 是一个 Windows 系统下的工具，用于管理和维护驱动程序库（Driver Store）。它是一个轻量级的图形化应用程序，提供了一个用户友好的界面，帮助用户查看、安装、删除和备份 Windows 操作系统中的驱动程序。",
+    "download": "https://github.com/lostindark/DriverStoreExplorer/releases/download/v0.12.64/DriverStoreExplorer.v0.12.64.zip"
+  },
   {
     "name": "Everything",
     "logo": "images/Everything.png",
@@ -204,12 +210,6 @@
     "download": "https://download.virtualbox.org/virtualbox/7.1.6/VirtualBox-7.1.6-167084-Win.exe"
   },
   {
-    "name": "Driver Store Explorer",
-    "logo": "images/Driver Store Explorer.png",
-    "description": "Driver Store Explorer (RAPR) 是一个 Windows 系统下的工具，用于管理和维护驱动程序库（Driver Store）。它是一个轻量级的图形化应用程序，提供了一个用户友好的界面，帮助用户查看、安装、删除和备份 Windows 操作系统中的驱动程序。",
-    "download": "https://github.com/lostindark/DriverStoreExplorer/releases/download/v0.12.64/DriverStoreExplorer.v0.12.64.zip"
-  },
-  {
     "name": "Visual Studio Code",
     "logo": "images/Visual Studio Code.png",
     "description": "Visual Studio Code 是由 Microsoft 开发的一款免费、开源的轻量级源代码编辑器。它具有强大的功能，适用于各种编程语言，并支持多种操作系统（Windows、macOS 和 Linux）。VS Code 是一种高度可定制的编辑器，适合各种开发任务，从简单的文本编辑到复杂的编程工作流",
@@ -222,6 +222,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
