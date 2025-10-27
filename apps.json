@@ -113,6 +113,12 @@
       "description": "IObit Unlocker 是一款主要用于解决文件和文件夹被锁定或无法删除的问题。许多用户在使用计算机时可能会遇到一些文件无法删除或移动的情况，这通常是因为这些文件正在被某个程序使用或被操作系统占用，导致它们被“锁定”。",
       "download": "/files/unlocker-setup.exe"
     },
+   {
+      "name": "Jsmpeg-vnc",
+      "logo": "images/Jsmpeg-vnc.png",
+      "description": "jsmpeg-vnc 是一个基于浏览器的 远程桌面控制工具，它结合了 VNC 和 JSMpeg 技术，用于通过浏览器实现低延迟的远程桌面控制和屏幕共享。",
+      "download": "https://github.com/phoboslab/jsmpeg-vnc/releases/download/v0.2/jsmpeg-vnc-v0.2.zip"
+    },
   {
     "name": "Kdenlive",
     "logo": "images/Kdenlive.png",
@@ -228,6 +234,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
