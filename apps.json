@@ -115,7 +115,7 @@
     },
    {
       "name": "Jsmpeg-vnc",
-      "logo": "images/Jsmpeg-vnc.png",
+      "logo": "images/Jsmpeg-vnc.jpg",
       "description": "jsmpeg-vnc 是一个基于浏览器的 远程桌面控制工具，它结合了 VNC 和 JSMpeg 技术，用于通过浏览器实现低延迟的远程桌面控制和屏幕共享。",
       "download": "https://github.com/phoboslab/jsmpeg-vnc/releases/download/v0.2/jsmpeg-vnc-v0.2.zip"
     },
@@ -234,6 +234,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
