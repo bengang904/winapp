@@ -138,6 +138,12 @@
     "download": "https://winapp2.2024-10-24.zip/files/memreduct.exe"
   },
   {
+    "name": "MSYS2",
+    "logo": "images/MSYS2.png",
+    "description": "MSYS2 是一个在 Windows 上提供类 Linux 环境的开源平台，内含 bash、make、git 等工具，并集成 MinGW-w64 编译器与 pacman 包管理器，可方便地安装和更新开发组件，适合跨平台与原生程序开发。",
+    "download": "https://github.com/msys2/msys2-installer/releases/download/2025-08-30/msys2-x86_64-20250830.exe"
+  },
+  {
     "name": "Nomacs",
     "logo": "images/Nomacs.png",
     "description": "Nomacs 是一款免费的开源图片查看器，适用于 Windows、Linux 和 macOS 操作系统。它不仅支持查看各种常见的图片格式，还具备一些基本的图片编辑功能，功能上既轻量又实用，非常适合用户进行日常的图片浏览和简单的图像处理。",
@@ -240,6 +246,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
