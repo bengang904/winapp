@@ -6,6 +6,12 @@
     "download": "https://www.7-zip.org/a/7z2409-x64.exe"
   },
   {
+    "name": "APNG Assembler",
+    "logo": "images/APNG Assembler.png",
+    "description": "APNG Assembler 是一个将多张PNG合成为APNG动图的工具，完全开源免费，使用 zlib 许可证，可自由使用、修改和商用。支持命令行与图形界面，适合制作高质量透明动画。",
+    "download": "files/apngasm_gui.exe"
+  },
+  {
     "name": "Arduino IDE",
     "logo": "images/Arduino IDE.png",
     "description": "Arduino IDE 是一个开源的开发环境，支持 Arduino 的编程和上传功能。它为初学者和开发者提供了一个直观的界面，简化了开发过程。通过使用这个 IDE，用户可以编写代码、调试和上传到 Arduino 开发板。",
@@ -246,6 +252,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
