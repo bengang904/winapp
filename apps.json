@@ -247,7 +247,7 @@
   },
    {
     "name": "Visual Studio 2022",
-    "logo": "images/Visual Studio 2022.png",
+    "logo": "images/Visual Studio 2022.jpg",
     "description": "Visual Studio 2022 是微软推出的 64 位强大集成开发环境。它集代码编辑、智能补全、调试及图形化设计于一体，支持开发 Windows、移动端及 Web 应用，是大型专业项目的全能工具箱。",
     "download": "files/vs_Community.exe"
   },
@@ -264,6 +264,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
