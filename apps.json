@@ -245,6 +245,12 @@
     "description": "VirtualBox 是一款由 Oracle 开发的开源虚拟化软件，用于在一台计算机上创建和运行虚拟机。通过 VirtualBox，用户可以在主机操作系统上运行多个不同的操作系统（如 Windows、Linux、macOS 等），而无需更换或重新启动计算机。",
     "download": "https://download.virtualbox.org/virtualbox/7.1.6/VirtualBox-7.1.6-167084-Win.exe"
   },
+   {
+    "name": "Visual Studio 2022",
+    "logo": "images/Visual Studio 2022.png",
+    "description": "Visual Studio 2022 是微软推出的 64 位强大集成开发环境。它集代码编辑、智能补全、调试及图形化设计于一体，支持开发 Windows、移动端及 Web 应用，是大型专业项目的全能工具箱。",
+    "download": "files/vs_Community.exe"
+  },
   {
     "name": "Visual Studio Code",
     "logo": "images/Visual Studio Code.png",
@@ -258,6 +264,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
