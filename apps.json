@@ -162,6 +162,12 @@
     "download": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-31.0.2-Windows-Installer.exe"
   },
   {
+    "name": "Okular",
+    "logo": "images/Okular.png",
+    "description": "Okular 是 KDE 社区开发的跨平台文档阅读器，支持 PDF、EPUB、DJVU 等多种格式，提供批注与搜索功能，完全开源且免费，适用于 Linux、Windows 与 macOS。",
+    "download": "https://cdn.kde.org/ci-builds/graphics/okular/master/windows/okular-master-7087-windows-cl-msvc2022-x86_64.exe"
+  },
+  {
     "name": "OpenBoard",
     "logo": "images/OpenBoard.png",
     "description": "OpenBoard 是一款开源免费的交互式电子白板软件，主要用于教育和教学环境。它可以让教师或讲师在电脑上进行演示、书写和互动，类似传统的黑板或投影白板，但功能更丰富。",
@@ -264,6 +270,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
