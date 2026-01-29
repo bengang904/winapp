@@ -177,7 +177,7 @@
     "name": "PrusaSlicer",
     "logo": "images/PrusaSlicer.png",
     "description": "PrusaSlicer 是一款由 Prusa Research 开发的开源免费 3D 打印切片软件，功能强大，支持多种打印机和材料，适合入门与进阶用户使用。",
-    "download": "https://cdn.prusa3d.com/downloads/drivers/prusa3d_win_2_9_2.exe"
+    "download": "https://cdn.prusa3d.com/downloads/drivers/prusa3d_win_2_6_0.exe"
   },
  {
     "name": "Ren'Py",
@@ -270,6 +270,7 @@
     "download": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.21-win64.exe"
   }
 ]
+
 
 
 
